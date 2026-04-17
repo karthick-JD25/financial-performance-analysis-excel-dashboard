@@ -18,11 +18,12 @@ Pivot Tables
 Charts  
 
 ## Key Insights
-• Majority of projects fall within mid-level funding ranges  
-• Certain categories show higher success rates  
-• Backer contribution patterns influence project outcomes  
-• Funding success varies across categories and goals  
-• Project duration impacts funding success
+
+• Majority of projects fall within medium funding range  
+• Certain project categories show higher success rates  
+• Backer contribution significantly impacts project success  
+• Projects with optimized funding goals perform better  
+• Funding distribution trends help predict project performance
 
 ## Dashboard Features
 • KPI metrics for financial performance
@@ -32,11 +33,13 @@ Charts
 • Backer contribution analysis
 
 ## Skills Demonstrated
-Excel Dashboard Development  
-Data Analysis  
-Pivot Tables  
-Data Visualization  
-Business Insight Generation  
+
+• Excel Dashboard Development  
+• Pivot Tables and Data Analysis  
+• Data Cleaning and Transformation  
+• KPI Metrics Design  
+• Business Insight Generation  
+• Data Visualization  
 
 ## Business Impact
 This analysis helps stakeholders understand financial trends and identify factors contributing to successful project funding. Insights support better planning, budgeting, and performance evaluation.
